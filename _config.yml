@@ -3,7 +3,7 @@ logo: /assets/img/image.png
 
 description:
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="pdf/resume.pdf">Resume</a>
   <a href="https://www.linkedin.com/in/charmila-vanama-9a1375a2/">LinkedIn</a> |
   <a href="https://github.com/Charmilav">GitHub</a>
   
@@ -13,7 +13,6 @@ description:
   Have 5 years of experirence as product engineer.
   <br>
   </p>
-
 
 
 theme: jekyll-theme-minimal
