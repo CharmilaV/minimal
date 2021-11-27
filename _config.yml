@@ -1,1 +1,19 @@
+title: <p align="center"> Charmila Vanama </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/charmila-vanama-9a1375a2/">LinkedIn</a> |
+  <a href="https://github.com/Charmilav">GitHub</a>
+  
+  <br>   
+  I'm working on Electronics Design Automation, Python, Machine learning & AI related problems.
+  Working in RTL designer signoff domain in EDA industry.
+  Have 5 years of experirence as product engineer.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
